@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathuminipamodya&label=Profile%20views&color=0e75b6&style=flat" alt="chathuminipamodya" /> </p>
 
+## 👩‍💻 About Me
+
+- 🎓 Final-year **Full Stack Developer Undergraduate** at **University of Moratuwa (UOM)**
+- 💻 Interested in **Web Development, Cloud, and AI-powered applications**
+- 🚀 Actively looking for **software engineer roles**
 
 - 📝 I regularly write articles on [https://medium.com/@chathuminiwanasinghe](https://medium.com/@chathuminiwanasinghe)
 
