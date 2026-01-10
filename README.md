@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final-year **Full Stack Developer Undergraduate** at **University of Moratuwa (UOM)**
+- 🎓 Final-year **Undergraduate** at **University of Moratuwa (UOM)**
 - 💻 Interested in **Web Development, Cloud, and AI-powered applications**
 - 🚀 Actively looking for **software engineer roles**
 
