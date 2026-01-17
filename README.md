@@ -7,7 +7,7 @@
 
 - 🎓 Final-year **Undergraduate** at **University of Moratuwa (UOM)**
 - 💻 Interested in **Software Development, Cloud, and AI-powered applications**
-- 🚀 Actively looking for **software engineer roles**
+- 🚀 Actively looking for **software Engineer/AI engineer roles**
 
 - 📝 I regularly write articles on [https://medium.com/@chathuminiwanasinghe](https://medium.com/@chathuminiwanasinghe)
 
