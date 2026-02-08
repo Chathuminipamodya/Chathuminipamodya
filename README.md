@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chathumini Wanasingha</h1>
+<h1 align="center">Hi 👋, I'm Chathumini Wanasinghe</h1>
 <h3 align="center">A passionate Full stack developer Undergraduate form UOM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathuminipamodya-2026&label=Profile%20Views%20&color=0e75b6&style=flat" alt="profile views" />
