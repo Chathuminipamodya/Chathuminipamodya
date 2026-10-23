@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chathumini Wanasinghe</h1>
-<h3 align="center">A passionate Full stack developer Undergraduate form UOM</h3>
+<h3 align="center">A passionate Software Engineer graduate form UOM</h3>
 <h2>Former Software Engineer Intern At X-ONT Software</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathuminipamodya-2026&label=Profile%20Views%20&color=0e75b6&style=flat" alt="profile views" />
@@ -7,9 +7,9 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final-year **Undergraduate** at **University of Moratuwa (UOM)**
+- 🎓 BSc (Hons) in Information Technology | University of Moratuwa
 - 💻 Interested in **Software Development, Cloud, and AI-powered applications**
-- 🚀 Actively looking for **software Engineer/AI engineer roles**
+- 🚀 Actively looking for **software Engineer/AI/ML engineer roles**
 
 - 📝 I regularly write articles on [https://medium.com/@chathuminiwanasinghe](https://medium.com/@chathuminiwanasinghe)
 
